@@ -15,4 +15,4 @@ https://github.com/alacritty/alacritty
 
 https://github.com/bahamas10/vsv
 
-+ more
+plus more
