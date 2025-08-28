@@ -3,6 +3,7 @@ the new account of a c exclusive developer
 projects i enjoy: 
 
 https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html
+
 https://www.opengl.org/archives/resources/code/samples/glut_examples/demos/demos.html
 
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/
