@@ -9,7 +9,7 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/
 
 https://www.victornils.net/tetris/
 
-github.com/nothings/stb
+https://github.com/nothings/stb
 
 https://github.com/alacritty/alacritty
 
