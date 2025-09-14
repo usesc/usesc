@@ -1,4 +1,4 @@
-the new account of a c exclusive developer 
+the new account of a c almost exclusive developer 
 
 projects i enjoy: 
 
